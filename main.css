@@ -1,0 +1,14 @@
+body {
+    
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    word-wrap: break-word;
+    border: 10px inset rgb(112, 13, 116);
+    
+  } 
+
+div {
+    background-color: beige  ; 
+    padding: 3px
+}

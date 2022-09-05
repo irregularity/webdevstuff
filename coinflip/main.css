@@ -1,0 +1,11 @@
+.hide  {
+    display: none;
+}
+
+body {
+  margin: auto;
+  width: 50%;
+  border: 3px inset rgb(24, 40, 187);
+  padding: 10px;
+} 
+
